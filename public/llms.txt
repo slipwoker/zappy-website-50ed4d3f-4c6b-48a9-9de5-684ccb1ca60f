@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Build stunning modular lamps with free STL files and a live 3D preview. Mix bases, shades, and adapters to create lighting that&#39;s truly yours. Start designing free today!
+
+### How It Works
+https://example.com/how-it-works
+Discover how LampForge lets you mix and match the shade, base, and adapter components with a real-time 3D preview — then download print-ready STL files instantly.
+
+### Pricing
+https://example.com/pricing
+From free STL files for hobbyists to commercial resale rights for merchants — LampForge pricing plans scale with your ambition. Find your perfect tier and start printing today.
+
+### Contact
+https://example.com/contact
+Have questions about custom window treatments, bulk licensing, or your LampForge subscription? Reach our team now and get expert help tailored to designers, makers, and merchants.
+
+### Products
+https://example.com/products
+Our Products - LampForge
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - LampForge
+
+### Category
+https://example.com/category/:slug
+Products - LampForge
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
